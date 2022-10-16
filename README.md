@@ -2,13 +2,6 @@
 
 ### Description
 
-- List of all products;
-- List of categories;
-- Adding images to the product;
-- Possibility of inclusion and removal from the basket;
-- Place an order through the basket, thereby adding it to the database;
-- Authorization of users;
-
 ---
 
 ### Technologies:
@@ -16,8 +9,8 @@
 * Django
 * Pytest
 * Git
-* Html
-* Bootstrap
+* DRF
+* JWT
 
 ---
 
